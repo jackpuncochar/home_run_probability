@@ -10,3 +10,4 @@ The introduction of the Statcast tracking system increased the prevalence of ana
 - R Shiny (display HR probability as a scoreboard with live game state and hitter/pitcher data)
 
 ## Future Work
+Simulate games, track home run and other event probabilities (i.e. hit, strikeout, walk, etc.) Compare probabilities to market odds. Build tool that highlights key betting opportunities.  
